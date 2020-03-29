@@ -1,5 +1,5 @@
 {
-	"asi" : true,
+	"asi" : false,
 	"camelcase" : true,
 	"indent": 2,
 	"undef": true,
@@ -11,5 +11,6 @@
 	"browser": true,
 	"devel": true,
 	"jquery": true,
-	"esversion": 6
+	"esversion": 8,
+	"node": true
 }

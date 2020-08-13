@@ -1,2 +1,2 @@
-# training_project-1_Udemy
+# budget-calculator
 Daily budget calculator
